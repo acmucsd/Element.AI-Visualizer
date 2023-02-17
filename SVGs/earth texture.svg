@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="66"
+   height="42"
+   viewBox="0 0 66 42"
+   fill="none"
+   version="1.1"
+   id="svg3108"
+   sodipodi:docname="earth texture.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs3112">
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="115.93964"
+       height="112.38318"
+       patternTransform="translate(-125.02109,-28.999123)"
+       id="pattern3183">
+      <image
+         width="115.93964"
+         height="112.38318"
+         preserveAspectRatio="none"
+         xlink:href="../earth%20ground.png"
+         id="image3179"
+         x="0"
+         y="0" />
+    </pattern>
+  </defs>
+  <sodipodi:namedview
+     id="namedview3110"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="2.833784"
+     inkscape:cx="-49.933234"
+     inkscape:cy="83.280871"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3108" />
+  <path
+     d="M1 21L33 0.999999"
+     stroke="black"
+     stroke-width="0.1"
+     stroke-linecap="round"
+     id="path3100" />
+  <path
+     d="M33 41L65 21"
+     stroke="black"
+     stroke-width="0.1"
+     stroke-linecap="round"
+     id="path3102" />
+  <path
+     d="M33 1L65 21"
+     stroke="black"
+     stroke-width="0.1"
+     stroke-linecap="round"
+     id="path3104" />
+  <path
+     d="M1 21L33 41"
+     stroke="black"
+     stroke-width="0.1"
+     stroke-linecap="round"
+     id="path3106" />
+  <rect
+     style="stroke:none;fill:url(#pattern3183)"
+     width="115.93964"
+     height="112.38318"
+     x="-125.02109"
+     y="-28.999123"
+     id="rect3186" />
+  <path
+     style="fill:url(#pattern3183);stroke:#000000;stroke-width:0.00599905;stroke-linecap:round;fill-opacity:1.0"
+     d="M 17.379225,30.934183 C 8.791386,25.565589 1.7676765,21.093704 1.7709823,20.99666 1.7793286,20.751644 32.693836,1.4959054 33.055102,1.5107003 33.445715,1.526697 64.225079,20.769368 64.225079,20.997575 c 0,0.127949 -27.001257,17.168806 -30.841528,19.464503 -0.214539,0.128253 -7.416486,-4.1593 -16.004326,-9.527895 z"
+     id="path4205"
+     inkscape:export-filename="C:\Users\Orca\Desktop\UCSD\ACM AI\Visualizer\earth ground.png"
+     inkscape:export-xdpi="98.561829"
+     inkscape:export-ydpi="98.561829" />
+</svg>
