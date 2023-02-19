@@ -36,10 +36,11 @@ for obs in data['observations']:
     player_num_grid = np.array(obs['board']['players_state'])
     num_agents = len(obs.keys()) - 1
 
-    heads = []
+    heads = {'player_0':(-1,-1), 'player_1':(-1,-1), 'player_2':(-1,-1), 'player_3':(-1,-1)}
+    #key = player_0, player_1
     for key in obs.keys():
         if key != 'board':
-            heads.append(obs[key]['head'])
+            heads[key] = obs[key]['head']
     #update visual scene
     rgb = py_visualizer.update_scene(grid, player_num_grid, num_agents, heads)
     #print iteration number
