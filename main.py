@@ -9,7 +9,7 @@ import argparse
 parser = argparse.ArgumentParser(description="Run the Element.AI Visualizer game.")
 parser.add_argument("-r", "--render", action='store_true', help="turn on pygame rendering")
 parser.add_argument("-o", "--output", help="Where to output replays. Default is none and no replay is generated")
-parser.add_argument("-f", "--file", help="Where to read files. Default is test.json", default="test.json")
+parser.add_argument("-f", "--file", help="Where to read files. Default is test.json", default="./examples/test.json")
 args = parser.parse_args()
 
 #open input json file
