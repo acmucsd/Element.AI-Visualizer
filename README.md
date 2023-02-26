@@ -15,4 +15,4 @@ Disable live render with -r flag.
 
 Write to video output with -o "filename".
 
-Change in put filename with -f "filename".
+Change input filename with -f "filename".
